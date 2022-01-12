@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+
+header {
+  text-align: center;
+  padding: 2rem;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+header img {
+  width: 3.8rem;
+  border: 1px solid hsla(0, 0%, 50%, .3);
+  border-radius: 50%;
+  padding: .2rem;
+}
+
+header h1 {
+  font-family: Rubik, sans-serif;
+  margin: .5rem 0;
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: #555;
+}
+
+header h2 {
+  font-family: Raleway, sans-serif;
+  text-transform: uppercase;
+  color:hsla(0, 0%, 50%, .9);
+  font-size: .9rem;
+  color: #777;
+  letter-spacing: .1rem;
+}

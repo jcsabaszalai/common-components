@@ -1,2 +1,1 @@
-# common-components
-Common components
+common components

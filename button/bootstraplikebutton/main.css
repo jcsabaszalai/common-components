@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .btn {
+    text-decoration: none;
+    color: #fff;
+    border: .0625rem solid transparent;
+    padding: .5rem .8rem;
+    display: inline-block;
+    margin: .3rem .05rem;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: .9rem;
+    text-align: center;
+    vertical-align: middle;
+    min-width: 5rem;
+    white-space: nowrap;
+    line-height: 1.4285;
+    /*height: 1.48rem;*/
+    
+  }
+  
+  .btn:hover {
+    filter: brightness(80%);
+    transform: scale(1.1);
+  }
+  
+  .btn-default {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .btn-default:hover {
+    background-color: #d3d4dc;
+  }
+  
+  .btn-primary {
+    background-color: blue;
+  }
+  
+  .btn-success {
+    background-color: green;
+  }
+  
+  .btn-info {
+    background-color: lightblue;
+  }
+  
+  .btn-warning {
+    background-color: orange;
+  }
+  
+  .btn-danger {
+    background-color: red;
+  }
+  
+  section {
+    background-color: hsla(10,0%,100%,.8);
+    padding: .2rem .7rem;
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+  }
+  
+  body {
+    background-color: #d3d4dc;
+    font-family: Arial, sans-serif;
+  }
+  
+  section h1 {
+    font-weight: 400;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
